@@ -69,4 +69,7 @@ These models are evaluated based on their performance to help identify which alg
 ## **Conclusion**
 The results suggest that these machine learning models, particularly Random Forest, are highly effective in predicting biodegradability from molecular descriptors. While Random Forest offers the best performance, Logistic Regression and KNN still show strong predictive capability and might be preferred in cases where interpretability or lower computational cost is important.
 
+## **Assets**
+* [Galaxy's Workflow](https://usegalaxy.eu/u/harish_muh12/w/workflow-constructed-from-history-classificationgta)
+* [Documentation](https://github.com/harishmuh/Biodegradarable-molecules_classification_Galaxy/tree/main/documentation)
 
